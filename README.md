@@ -9,6 +9,6 @@
 
 Referências : [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
-Dia 01 - Icones rede social
+Dia 01 - Isometrics icons social media isometrics 
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia01/Isometric-Social-Icons-day-01.gif)

@@ -6,3 +6,8 @@
 - Realizar um projeto por dia
 - Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 - O projeto deve ser concluído até 23:59
+
+
+Dia 01 - Icones rede social
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia01/Isometric-Social-Icons-day-01.gif)

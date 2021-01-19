@@ -7,6 +7,7 @@
 - Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 - O projeto deve ser concluído até 23:59
 
+Referências : [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 Dia 01 - Icones rede social
 

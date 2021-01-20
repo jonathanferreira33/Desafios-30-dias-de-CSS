@@ -12,3 +12,7 @@ Referências : [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfU
 Dia 01 - Isometrics icons social media
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia01/Isometric-Social-Icons-day-01.gif)
+
+Dia 02 - Menu on click
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia02/assets/Sliding-Menu-on-Click-dia2.gif)

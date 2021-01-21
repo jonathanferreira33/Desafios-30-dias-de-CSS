@@ -16,3 +16,8 @@ Dia 01 - Isometrics icons social media
 Dia 02 - Menu on click
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia02/assets/Sliding-Menu-on-Click-dia2.gif)
+
+
+Dia 04 - Menu expansível
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia03/assets/Menu-expeans%C3%ADvel-com-um-click.gif)

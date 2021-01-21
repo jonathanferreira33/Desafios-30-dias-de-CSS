@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu expeansível com um click</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.toggle').click(function(){
+                $('.toggle').toggleClass('active')
+                $('.overlay').toggleClass('active')
+                $('.menu').toggleClass('active')
+            })
+        });
+    </script>
+</head>
+<body>
+    <div class="toggle"></div>
+    <div class="overlay"></div>
+    <div class="menu">
+        <ul>
+            <li><a href="http://">Menu 1</a></li>
+            <li><a href="http://">Menu 2</a></li>
+            <li><a href="http://">Menu 3</a></li>
+            <li><a href="http://">Menu 4</a></li>
+            <li><a href="http://">Menu 5</a></li>
+            <li><a href="http://">Menu 6</a></li>
+        </ul>
+    </div>
+</body>
+</html>

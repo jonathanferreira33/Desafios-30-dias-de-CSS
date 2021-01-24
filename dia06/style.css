@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+ul {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    display: block;
+    text-decoration: none;
+    height: 30px;
+    line-height: 30px;
+    font-size: 24px;
+    background: #000000;
+    width: 140px;
+    color: #ffffff;
+    margin: 4px 0;
+    padding-left: 15px;
+    text-transform: uppercase;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 2px solid black;
+}
+
+ul li:hover:nth-child(1) a {
+    background: #ffee32;
+    color: #000000;
+    border: 2px solid #ffee32;
+}
+
+ul li:hover:nth-child(2) a {
+    background: #ffd100;
+    color: #000000;
+    border: 2px solid #ffd100;
+}
+
+ul li:hover:nth-child(3) a {
+    background: #000000;
+}
+
+ul li:hover:nth-child(4) a {
+    background: #202020;
+    border: 2px solid #202020;
+}
+
+ul li:hover:nth-child(5) a {
+    background: #333533;
+    border: 2px solid #333533;
+}
+
+
+
+#container {
+    width: 100%;
+    height: 100vh;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+}
+
+#container div {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+#container div h1 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-shadow: rgba(0, 0, 0, 0.473) 0.1em 0.1em 0.2em;
+}
+
+#container div P {
+    position: absolute;
+    top: 57%;
+    transform: translateY(-25%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-size: 20pt;
+    text-transform: uppercase;
+    text-shadow: rgba(0, 0, 0, 0.473) 0.1em 0.1em 0.2em;
+}
+
+#container div#cffee32 {
+    background: #ffee32;
+    
+}
+
+#container div#cffd100 {
+    background: #ffd100;
+    
+}
+
+#container div#c000000 {
+    background: #000000;
+}
+
+#container div#c202020 {
+    background: #202020;
+    
+}
+
+#container div#c333533{
+    background: #333533;
+    
+}

@@ -32,3 +32,8 @@ Dia 04 - Calculadora transparente
 Dia 05 - Menu ajustável
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia05/assets/Sticky-Navbar.gif)
+
+
+Dia 06 - Rolagem uma clique suave
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia06/assets/Rolagem-suave-com-um-clique.gif)

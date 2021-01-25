@@ -2,7 +2,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-
 }
 
 ul {
@@ -61,8 +60,6 @@ ul li:hover:nth-child(5) a {
     background: #333533;
     border: 2px solid #333533;
 }
-
-
 
 #container {
     width: 100%;

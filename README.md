@@ -37,3 +37,7 @@ Dia 05 - Menu ajustável
 Dia 06 - Rolagem uma clique suave
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia06/assets/Rolagem-suave-com-um-clique.gif)
+
+Dia 07 - Seção apresentação de produtos
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia07/assets/Card-de-produto.gif)

@@ -41,3 +41,7 @@ Dia 06 - Rolagem uma clique suave
 Dia 07 - Seção apresentação de produtos
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia07/assets/Card-de-produto.gif)
+
+Dia 08 - Check List
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia08/assets/Checkbox-Google-Chrome-2021-01-27-17-58-35.gif)

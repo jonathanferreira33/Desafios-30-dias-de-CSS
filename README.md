@@ -45,3 +45,8 @@ Dia 07 - Seção apresentação de produtos
 Dia 08 - Check List
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia08/assets/Checkbox-Google-Chrome-2021-01-27-17-58-35.gif)
+
+
+Dia 09 - Mostrar/Ocutar senha
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia09/assets/Mostrar_Ocultar-senha-Google.gif)

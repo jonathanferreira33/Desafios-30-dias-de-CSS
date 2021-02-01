@@ -50,3 +50,7 @@ Dia 08 - Check List
 Dia 09 - Mostrar/Ocutar senha
 
 ![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia09/assets/Mostrar_Ocultar-senha-Google.gif)
+
+Dia 10 - Animação - Efeito Onda
+
+![](https://github.com/jonathanferreira33/Desafios-30-dias-de-CSS/blob/main/dia10/assets/Efeito-de-anima%C3%A7%C3%A3o-Onda.gif)
